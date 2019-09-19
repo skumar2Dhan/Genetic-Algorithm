@@ -1,0 +1,4 @@
+geneticalgorithm.Individual
+geneticalgorithm.Population
+geneticalgorithm.GeneticAlgorithm
+geneticalgorithm.SimpleDemoGA
